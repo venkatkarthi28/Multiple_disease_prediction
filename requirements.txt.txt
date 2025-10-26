@@ -5,5 +5,5 @@ requests
 numpy
 pandas
 reportlab
+pickle_mixin
 
-pickle-mixin
