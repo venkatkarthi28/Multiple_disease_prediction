@@ -1,8 +1,9 @@
 streamlit
-streamlit-option-menu
-streamlit-lottie
+streamlit_option_menu
+streamlit_lottie
 requests
 numpy
 pandas
 reportlab
+
 pickle-mixin
